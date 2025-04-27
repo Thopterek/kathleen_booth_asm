@@ -3,10 +3,9 @@
 ;				first Hello, World
 ;											NASM version
 ; -----------------------------------------------------------
-; This is an introduction for writing some assembly for Linux
-; below is the first hello world and code I used to compile
-; This is written for myself but maybe someone can use it.
-; Idea is not to comment about something that was used before:
+;   This is an introduction for writing some assembly
+; below is the first hello world and how notes about it
+; I wrote it for myself but hopefully it can also help you!
 ; ------------------------------------------------------------
 ; first step: nasm -felf64 0_hello.asm 0_hello.o
 ; linked object file to our executable: ld hello.o -o hello
@@ -36,7 +35,7 @@ _start:
 		syscall					  ; invoke os to exit
 
 		section .data			; section for constant data
-message: db	"Hello, World", 10	; idk but something about newline.
+message: db	"Hello, World", 10	; 10 is a newline
 
 ; ----------------------------------------------------------
 ;					  Instructions
