@@ -35,6 +35,8 @@ Same for some good write up about [NASM from LMU](https://cs.lmu.edu/~ray/notes/
 
 Plus some proper [NASM documentations](https://www.nasm.us/xdoc/2.16.03/nasmdoc.pdf).
 
+MIT Performance engineering on [youtube](https://www.youtube.com/watch?v=wt7a5BOztuM&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf&index=5).
+
 #### If you have more great resources I would love to add them
 
 Thank you for your time and hopefully it will also help you
