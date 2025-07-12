@@ -37,6 +37,10 @@ Plus some proper [NASM documentations](https://www.nasm.us/xdoc/2.16.03/nasmdoc.
 
 MIT Performance engineering on [youtube](https://www.youtube.com/watch?v=wt7a5BOztuM&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf&index=5).
 
+Flat assembeler documentation for CPP preference style [manual](https://flatassembler.net/docs.php?article=manual).
+
+And instruction reference for x86/amd64 as a group of [IS](https://www.felixcloutier.com/x86/).
+
 #### If you have more great resources I would love to add them
 
 Thank you for your time and hopefully it will also help you
