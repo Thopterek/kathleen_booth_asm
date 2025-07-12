@@ -15,15 +15,13 @@ There is much more to the comments related to the subject.
 
 I also wanted to digitalize some of my notes that I made.
 
-### That's why you can find things like this in the handwritten folder:
-
-<img width="760" alt="hier" src="https://github.com/user-attachments/assets/89523442-f08f-485f-9856-e6161a61fd24" />
-
-#### which is a mix of notes named per topic:
+### That's why you can find mix of notes named per topic:
 
 - some mention from where they come from to add context
 
 - others are named per what they are about
+
+- they are all in the related doc directory
 
 #### Another part are important resources
 
