@@ -21,7 +21,7 @@ I also wanted to digitalize some of my notes that I made.
 
 - others are named per what they are about
 
-- they are all in the related doc directory
+- they are all in the related handwritten directory
 
 #### Another part are important resources
 
